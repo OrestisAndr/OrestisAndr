@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Welcome to My GitHub Profile!
 
-<!--
-**OrestisAndr/OrestisAndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Orestis!
+I’m an Economics graduate currently working as a Financial Analyst, with a growing passion for data analysis and technology. My goal is to transition into a full-time Data Analyst role, combining my analytical skills with modern tools to solve real-world problems.
 
-Here are some ideas to get you started:
+🛠️ Skills and Tools
+Data Analysis & Visualization:
+Excel (Advanced), Power BI, Tableau (learning in progress)
+Programming & Databases:
+SQL (beginner), Swift (beginner), MySQL Workbench
+Financial Analysis:
+Budgeting, forecasting, and financial modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 What I’m Learning
+Data Science Tools: Python and R for advanced data analysis
+Database Management: Optimizing queries and data pipelines with SQL
+App Development: Building apps with Swift and Xcode
+
+💡 Projects
+Excel & Power BI Dashboards:
+Automating reports for financial and operational metrics.
+Fantasy NBA Team Analyzer:
+An Excel tool that evaluates player stats for optimal team selection.
+Pizza Recipe Calculator:
+A spreadsheet that adjusts ingredient quantities based on hydration levels and pizza count. (just for fun! 🍕)
+
+📫 Let’s Connect!
+
+LinkedIn: https://www.linkedin.com/in/orestis-androulakis/
+Email: or.androulakis@icloud.com
