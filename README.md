@@ -9,16 +9,15 @@ I’m an **Economics graduate** currently working as a **Financial Analyst**, wi
 - **Data Analysis & Visualization:**  
   - Excel (Advanced), Power BI, Tableau *(learning in progress)*  
 - **Programming & Databases:**  
-  - SQL *(beginner)*, Swift *(beginner)*, MySQL Workbench  
+  - SQL *(beginner)*, MySQL Workbench  
 - **Financial Analysis:**  
-  - Budgeting, forecasting, and financial modeling  
+  - Budgeting, P&L statement, Balance Sheet 
 
 ---
 
 ## 📚 What I’m Learning
 - **Data Science Tools:** Python and R for advanced data analysis  
 - **Database Management:** Optimizing queries and data pipelines with SQL  
-- **App Development:** Building apps with Swift and Xcode  
 
 ---
 
@@ -35,13 +34,13 @@ A spreadsheet that adjusts ingredient quantities based on hydration levels and p
 ---
 
 ## 📫 Let’s Connect!
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/orestis-androulakis/)](#)  
+- **LinkedIn:** [(https://www.linkedin.com/in/orestis-androulakis/)](#)  
 - **Email:** [or.androulakis@icloud.com](mailto:or.androulakis@icloud.com)  
 
 ---
 
 ### 📝 Interesting Facts:
-- 🎓 I graduated with a degree in Economics.
+- 🎓 I hold a degree in **Accounting and Finance** and an **MBA** in **TQM**.
 - 🔍 I love exploring data trends and insights.
 - 🌱 Currently learning new programming languages to enhance my data analysis skills.
 
