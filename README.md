@@ -34,7 +34,7 @@ A spreadsheet that adjusts ingredient quantities based on hydration levels and p
 ---
 
 ## 📫 Let’s Connect!
-- **LinkedIn:** [(https://www.linkedin.com/in/orestis-androulakis/)](#)  
+- **LinkedIn:** [Orestis' LinkedIn Profile](https://www.linkedin.com/in/orestis-androulakis/)
 - **Email:** [or.androulakis@icloud.com](mailto:or.androulakis@icloud.com)  
 
 ---
