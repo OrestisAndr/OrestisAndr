@@ -1,8 +1,8 @@
 # Orestis Androulakis
 
-Financial Analyst moving into data analytics. I work in SQL, Power BI and Excel, with Python where the question needs it.
+Financial Analyst with an MBA, working where finance meets data analytics: SQL, Power BI, Excel, and Python where the question needs it.
 
-My background is finance — a degree in Accounting & Finance, an MBA, and day-to-day work on budgets, P&L and balance sheets. That shapes how I analyse data: every project below starts from a business question, reconciles to the euro, and says plainly what the data cannot prove.
+Day to day I work on budgets, P&L and balance sheets. That shapes how I analyse data: every project below starts from a business question, reconciles to the euro, and says plainly what the data cannot prove.
 
 ## Projects
 
@@ -39,6 +39,10 @@ A Power BI report that measures where the revenue leaks, followed by a model tha
 | Spreadsheets | Excel (advanced) — financial models, reporting automation |
 | Python | pandas, scikit-learn, Jupyter |
 | Finance | Budgeting, variance analysis, P&L, balance sheet |
+
+## Education
+
+MBA, Total Quality Management · BSc, Accounting & Finance
 
 ## Contact
 
